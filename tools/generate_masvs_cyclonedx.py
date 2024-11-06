@@ -115,3 +115,4 @@ try:
         f.close()
 except FileNotFoundError:
     print("OWASP_MASVS.yaml not found. Be sure to run generate_masvs_yaml.py prior to running this script.")
+
